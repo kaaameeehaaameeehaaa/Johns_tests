@@ -1,0 +1,17 @@
+{
+  "name": "junk-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2",
+    "expect-playwright": "^0.8.0",
+    "jest": "^29.5.0",
+    "jest-playwright-preset": "^3.0.1",
+    "playwright": "^1.31.2"
+  }
+}
